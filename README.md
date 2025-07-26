@@ -1,1 +1,1 @@
-https://github.com/Mateoooo/ono-tebe-nado-fd/tree/main
+https://github.com/Mateoooo/ono-tebe-nado-fd
